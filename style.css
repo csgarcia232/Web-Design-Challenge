@@ -1,0 +1,23 @@
+body {
+    background: lightgray;
+}
+
+.navbar{
+    max-height: 57px; 
+}
+.navigation .navbar-brand{
+    color: white; 
+    margin-left: 30px; 
+    padding: inherit; 
+    font-weight: bold; 
+    background-color: #0BADA6;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.navbar{
+    background-color: white; 
+    font-size: 15px; 
+}
+}
+.dropdown-item{
+    color: #6D8092 !important; 
+}
