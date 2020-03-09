@@ -4,6 +4,8 @@ body {
 
 .navbar{
     max-height: 57px; 
+    background-color: white; 
+    font-size: 15px; 
 }
 .navigation .navbar-brand{
     color: white; 
@@ -12,12 +14,4 @@ body {
     font-weight: bold; 
     background-color: #0BADA6;
     font-family: Georgia, 'Times New Roman', Times, serif;
-}
-.navbar{
-    background-color: white; 
-    font-size: 15px; 
-}
-}
-.dropdown-item{
-    color: #6D8092 !important; 
 }
