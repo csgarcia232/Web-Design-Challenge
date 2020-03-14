@@ -19,7 +19,6 @@ body {
 .box{
     margin-left: 20px; 
     margin-top: 50px;
-    float: left;
     padding: inherit; 
     background-color: white;
     width: 500px;
@@ -31,4 +30,10 @@ body {
     font-weight: bold; 
     font-size: inherit;
     margin-top: 25px;
+}
+img {
+    padding-top: 10px;
+    padding-right: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
 }
